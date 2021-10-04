@@ -85,8 +85,8 @@ author:
   bio              : "I am Programmer"
   location         : "Khulna, Bangladesh"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,14 +103,14 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : "skpaik"
   linkedin         : 'skpaik'
-  orcid            : ""
+  orcid            : 
   pinterest        : "skpaik"
   soundcloud       : "xpaik"
   stackoverflow     : "705293/skpaik"
   steam            : 
   tumblr           : "skpaik"
   twitter          : "skpaik"
-  vine             : ""
+  vine             : 
   weibo            :
   xing             :
   youtube          : "skpaik"
