@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Sudipta Kumar Paik"
 description              : &description "Programmer"
 url                      : https://skpaik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : "skpaik/skpaik.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -90,30 +90,30 @@ author:
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  bitbucket        : "skpaik"
+  codepen          : "skpaik"
+  dribbble         : "skpaik"
+  flickr            : "skpaik"
+  facebook         : "skpaik"
+  foursquare       : "skpaik"
   github           : "skpaik"
   google_plus      :
   keybase          :
   instagram        : "skpaik"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : 'https://www.linkedin.com/in/skpaik'
+  lastfm           : "skpaik"
+  linkedin         : 'skpaik'
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
+  pinterest        : "skpaik"
+  soundcloud       : "xpaik"
+  stackoverflow     : "http://stackoverflow.com/users/705293/skpaik"
+  steam            : 
+  tumblr           : "skpaik"
+  twitter          : "skpaik"
+  vine             : "skpaik"
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "skpaik"
   wikipedia        :
 
 
