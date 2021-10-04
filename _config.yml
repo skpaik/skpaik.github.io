@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Sudipta Kumar Paik"
 description              : &description "Programmer"
 url                      : https://skpaik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skpaik/skpaik.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
