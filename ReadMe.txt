@@ -1,12 +1,12 @@
-Free Bootstrap 5 Resume/CV Template for Software Developers
+Free Bootstrap 5 Resume/CV Template for developers
 
 Theme name:
 =======================================================================
-DevResume
+Pillar
 
 Theme version:
 =======================================================================
-Bootstrap v1.0
+Bootstrap 5 v1.0
 
 Release Date:
 =======================================================================
@@ -26,4 +26,3 @@ License:
 =======================================================================
 This template is 100% FREE as long as you keep the footer attribution link. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
 
-If you’d like to use this template without the footer attribution link, you can buy the commercial license - https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/

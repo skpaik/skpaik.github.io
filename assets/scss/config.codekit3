@@ -4,7 +4,7 @@
     {
       "name" : "Process All Remaining Files and Folders",
       "stepType" : 1,
-      "uuidString" : "A334E912-127F-4933-92D5-AD8E55A35FBF"
+      "uuidString" : "36B828C7-424B-4528-B98F-DC56249E4FB2"
     }
   ],
   "creatorBuild" : "34127",
@@ -1143,7 +1143,7 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/devresume.scss" : {
+    "\/pillar-1.scss" : {
       "aP" : 1,
       "bl" : 0,
       "dP" : 10,
@@ -1151,9 +1151,79 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/Users\/Riley\/Sites\/htdocs\/devresume-theme-bs5\/devresume-theme-git\/assets\/css\/devresume.css",
+      "oAP" : "\/Users\/Riley\/Sites\/htdocs\/pillar-theme-bs5\/pillar-theme-git\/assets\/css\/pillar-1.css",
       "oF" : 6,
-      "oS" : 3,
+      "oS" : 1,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/pillar-2.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/Users\/Riley\/Sites\/htdocs\/pillar-theme-bs5\/pillar-theme-git\/assets\/css\/pillar-2.css",
+      "oF" : 6,
+      "oS" : 1,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/pillar-3.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/Users\/Riley\/Sites\/htdocs\/pillar-theme-bs5\/pillar-theme-git\/assets\/css\/pillar-3.css",
+      "oF" : 6,
+      "oS" : 1,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/pillar-4.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/Users\/Riley\/Sites\/htdocs\/pillar-theme-bs5\/pillar-theme-git\/assets\/css\/pillar-4.css",
+      "oF" : 6,
+      "oS" : 1,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/pillar-5.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/Users\/Riley\/Sites\/htdocs\/pillar-theme-bs5\/pillar-theme-git\/assets\/css\/pillar-5.css",
+      "oF" : 6,
+      "oS" : 1,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/pillar-6.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/Users\/Riley\/Sites\/htdocs\/pillar-theme-bs5\/pillar-theme-git\/assets\/css\/pillar-6.css",
+      "oF" : 6,
+      "oS" : 1,
       "pg" : 0,
       "sct" : 1
     }
@@ -1165,10 +1235,10 @@
 
   },
   "projectAttributes" : {
-    "creationDate" : 576670574.62582302,
-    "displayValue" : "DevResume BS5 Theme Git",
+    "creationDate" : 554044857,
+    "displayValue" : "Pillar B5 Theme Git",
     "displayValueWasSetByUser" : 1,
-    "iconImageName" : "meme-ariel",
+    "iconImageName" : "brackets_teal",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
@@ -1663,7 +1733,7 @@
       },
       "camelcase" : {
         "active" : 0,
-        "optionString" : "{'properties': 'always', 'ignoreDestructuring': false}"
+        "optionString" : "{'properties': 'always'}"
       },
       "capitalized-comments" : {
         "active" : 0,
@@ -1742,11 +1812,11 @@
       },
       "func-name-matching" : {
         "active" : 0,
-        "optionString" : "'always', {'considerPropertyDescriptor': false, 'includeCommonJSModuleExports': false}"
+        "optionString" : "'always', {'includeCommonJSModuleExports': false}"
       },
       "func-names" : {
         "active" : 0,
-        "optionString" : "'always', {'generators': 'always'}"
+        "optionString" : "'always'"
       },
       "func-style" : {
         "active" : 0,
@@ -1788,7 +1858,7 @@
       },
       "id-match" : {
         "active" : 0,
-        "optionString" : "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true, 'ignoreDestructuring': false}"
+        "optionString" : "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
       },
       "implicit-arrow-linebreak" : {
         "active" : 0,
@@ -2221,7 +2291,7 @@
       },
       "no-self-assign" : {
         "active" : 1,
-        "optionString" : "{'props': true}"
+        "optionString" : "{'props': false}"
       },
       "no-self-compare" : {
         "active" : 0
@@ -2248,7 +2318,7 @@
       },
       "no-tabs" : {
         "active" : 0,
-        "optionString" : "{allowIndentationTabs: false}"
+        "optionString" : ""
       },
       "no-template-curly-in-string" : {
         "active" : 0
@@ -2375,7 +2445,7 @@
       },
       "object-curly-newline" : {
         "active" : 0,
-        "optionString" : "{'ObjectExpression': {'multiline': true, 'consistent': true}, 'ObjectPattern': {'multiline': true, 'consistent': true}}"
+        "optionString" : "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
       },
       "object-curly-spacing" : {
         "active" : 0,
@@ -3322,7 +3392,7 @@
         "flagValue" : -1
       },
       "dead_code" : {
-        "active" : 1,
+        "active" : 0,
         "flagValue" : -1
       },
       "directives" : {
@@ -3354,7 +3424,7 @@
         "flagValue" : -1
       },
       "hoist_funs" : {
-        "active" : 0,
+        "active" : 1,
         "flagValue" : -1
       },
       "hoist_props" : {
@@ -3398,7 +3468,7 @@
         "flagValue" : -1
       },
       "keep_fargs" : {
-        "active" : 1,
+        "active" : 0,
         "flagValue" : -1
       },
       "keep_fnames" : {
@@ -3526,7 +3596,7 @@
         "flagValue" : -1
       },
       "unused" : {
-        "active" : 1,
+        "active" : 0,
         "flagValue" : -1
       },
       "warnings" : {
@@ -3543,7 +3613,7 @@
       }
     },
     "uglifyMangleNames" : 1,
-    "uglifyReservedNamesString" : "$,exports,require",
+    "uglifyReservedNamesString" : "$",
     "webpPresets" : {
 
     },
