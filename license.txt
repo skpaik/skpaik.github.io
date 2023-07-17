@@ -6,11 +6,11 @@ DevResume
 
 Theme version:
 =======================================================================
-Bootstrap v1.0
+Bootstrap 5 v3.0
 
 Release Date:
 =======================================================================
-2021-07-12
+2023-06-24
 
 Author: 
 =======================================================================
@@ -26,4 +26,4 @@ License:
 =======================================================================
 This template is 100% FREE as long as you keep the footer attribution link. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
 
-If you’d like to use this template without the footer attribution link, you can buy the commercial license - https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/
+If you’d like to use this template without the footer attribution link, you can buy the commercial license - https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-5-resume-cv-template-for-developers/
