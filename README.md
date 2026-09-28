@@ -2,7 +2,7 @@
 
 ## 🚀 About
 
-This is the personal website and resume of Sudipta Kumar Paik, a Senior Software Engineer & Tech Lead with 13+ years of experience in Full Stack Development, AWS Cloud Architecture, and AI/ML Integration.
+This is the personal website and resume of Sudipta Kumar Paik, a Senior Software Engineer & Tech Lead with 16+ years of experience in Full Stack Development, AWS Cloud Architecture, and AI/ML Integration.
 
 ## ✨ Recent Improvements
 
@@ -73,4 +73,4 @@ This template is free as long as you keep the footer attribution link. For comme
 
 ---
 
-*Last updated: December 2024* 
+*Last updated: September 2026* 
